@@ -11,5 +11,5 @@ dist
 /.settings
 /db
 .DS_Store
-.swp
+*.sw?
 evolutions
